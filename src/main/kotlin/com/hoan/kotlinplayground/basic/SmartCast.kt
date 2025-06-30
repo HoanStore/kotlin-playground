@@ -3,6 +3,8 @@ package com.hoan.kotlinplayground.basic
 fun main(args: Array<String>) {
     printLength("Hello")  // 문자열 길이: 5
 
+
+
 }
 
 fun printLength(obj: Any) {
